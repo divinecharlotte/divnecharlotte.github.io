@@ -1,0 +1,138 @@
+@media only screen and (max-width: 768px) {
+  body {
+    font-family: "Lato", sans-serif;
+    padding: 0;
+    margin: 0;
+    background-image: url("./assets//images/Website-background.png");
+  }
+
+  .burger {
+    position: absolute;
+    padding: 10%;
+    cursor: pointer;
+    padding-top: 20px;
+    margin-bottom: 40px;
+  }
+
+  .line {
+    display: block;
+    width: 25px;
+    height: 4px;
+    margin: 0 0 5px 0;
+    background-color: #d3d3d3;
+  }
+
+  .fa-xmark {
+    color: white;
+    float: right;
+    font-size: 25px;
+    margin: 5% 10%;
+  }
+
+  .nav-links {
+    width: 100%;
+    height: 100vh;
+    background: #ec5242;
+    opacity: 0.97;
+    top: 0;
+    margin: 0;
+    position: fixed;
+    transition: 1s;
+    left: -100%;
+  }
+
+  .nav-links a {
+    font-size: 40px;
+    text-decoration: none;
+    color: white;
+  }
+
+  .informations-mb {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    padding: 20px 0 0 20px;
+  }
+
+  .introduction {
+    padding: 50px 20px;
+  }
+
+  .first-heading {
+    font-size: 30px;
+    font-weight: 700;
+    color: #ec5242;
+  }
+
+  .second-heading {
+    text-transform: uppercase;
+    font-weight: 900;
+    line-height: 55px;
+    font-family: sans-serif;
+    color: rgba(255, 38, 0, 0.66);
+    font-size: 45px;
+  }
+
+  .text {
+    background-color: #f7f7f9;
+    border: #d3d3d3 1px solid;
+    padding: 10px;
+    /* font-family: "Lato"; */
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 500;
+    color: #272a31;
+  }
+
+  .date {
+    font-size: 30px;
+    color: #272a31;
+    font-weight: 900;
+    font-family: sans-serif;
+  }
+
+  .program {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #272a31;
+    color: white;
+    background-image: url(./assets/images/program-bg.jpg);
+  }
+
+  hr {
+    width: 80px;
+    height: 2px;
+    background-color: #ec5242;
+    border: none;
+  }
+
+  .box {
+    border: #d3d3d3 2px solid;
+    border-radius: 5px;
+    margin: 20px;
+    padding: 10px;
+    display: flex;
+    gap: 20px;
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+
+  .box-heading {
+    color: #ec5242;
+  }
+
+  .join-button {
+    width: 70%;
+    height: 13vh;
+    background-color: #ec5242;
+    border: none;
+    margin: 10px 0 50px 0;
+  }
+
+  .join-button a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+  }
+}
