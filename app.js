@@ -33,7 +33,7 @@ const projects = [
     image1: './assets/images/squared-bg.png',
     description:
         'he is known as mr manager and he is so at the same time mr algeria 2018 and he was recognised as a best collaborator in ae bank international,',
- 
+
   },
 
   {
@@ -44,7 +44,7 @@ const projects = [
     image1: './assets/images/squared-bg.png',
     description:
         'he is american air transport and he won the mr photogenic in mr america competition where he was given a job in that company just after the selection,',
-  
+
   },
   {
     id: 'card4',
@@ -54,9 +54,9 @@ const projects = [
     image1: './assets/images/squared-bg.png',
     description:
         'she have got the above title last year in companies awards selection and she was recognised as the best speaker of the year',
-  
+
   },
- 
+
   {
     id: 'card5',
 
