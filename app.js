@@ -56,16 +56,7 @@ const projects = [
         'she have got the above title last year in companies awards selection and she was recognised as the best speaker of the year',
   
   },
-  // {
-  //   id: 'card4',
-  //   title: 'Charlote Divine',
-  //   smallheading: 'miss chairman of goldenhouse fashion',
-  //   image: './assets/images/man.jpg',
-  //   image1: './assets/images/squared-bg.png',
-  //   description:
-  //       'she have got the above title last year in companies awards selection and she was recognised as the best speaker of the year',
-  //   technologyList: ['Html', 'Ruby on Rails', 'Javascript'],
-  // },
+ 
   {
     id: 'card5',
 
