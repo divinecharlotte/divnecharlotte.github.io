@@ -298,10 +298,11 @@ h6 {
 
   .maincontainerdiv {
     display: flex;
-    gap: 30px;
+    gap: 40px;
   }
 
   .p-head {
+    text-align: center;
     padding: 0 0 0 4rem;
   }
 
@@ -341,13 +342,6 @@ h6 {
 
   .about-logoimg {
     width: 90%;
-  }
-
-  .about {
-    border: red solid;
-
-    /* height: 70vh;
-    overflow-y: hidden; */
   }
 }
 
@@ -464,7 +458,7 @@ h6 {
   }
 
   .p-head {
-    padding: 0 0 0 27rem;
+    padding: 0 0 0 35rem;
   }
 
   .see-button {
