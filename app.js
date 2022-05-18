@@ -48,15 +48,25 @@ const projects = [
     technologyList: ['Html', 'Ruby on Rails', 'Javascript'],
   },
   {
-    id: 'card4',
-    title: 'Charlote Divine',
-    smallheading: 'miss chairman of goldenhouse fashion',
-    image: './assets/images/man.jpg',
+    id: 'card3',
+    title: 'Marcruz Abgael',
+    smallheading: 'mr photogenic  currently in charge of american air transport manager',
+    image: './assets/images/modal5.jpg',
     image1: './assets/images/squared-bg.png',
     description:
-        'she have got the above title last year in companies awards selection and she was recognised as the best speaker of the year',
+        'he is american air transport and he won the mr photogenic in mr america competition where he was given a job in that company just after the selection,',
     technologyList: ['Html', 'Ruby on Rails', 'Javascript'],
   },
+  // {
+  //   id: 'card4',
+  //   title: 'Charlote Divine',
+  //   smallheading: 'miss chairman of goldenhouse fashion',
+  //   image: './assets/images/man.jpg',
+  //   image1: './assets/images/squared-bg.png',
+  //   description:
+  //       'she have got the above title last year in companies awards selection and she was recognised as the best speaker of the year',
+  //   technologyList: ['Html', 'Ruby on Rails', 'Javascript'],
+  // },
   {
     id: 'card5',
 
