@@ -33,8 +33,7 @@ const projects = [
     image1: './assets/images/squared-bg.png',
     description:
         'he is known as mr manager and he is so at the same time mr algeria 2018 and he was recognised as a best collaborator in ae bank international,',
-    technologyList: ['Html', 'Ruby on Rails', 'Javascript'],
-    liveLink: 'divinecharlotte.github.io/portifolio-setup',
+ 
   },
 
   {
@@ -45,17 +44,17 @@ const projects = [
     image1: './assets/images/squared-bg.png',
     description:
         'he is american air transport and he won the mr photogenic in mr america competition where he was given a job in that company just after the selection,',
-    technologyList: ['Html', 'Ruby on Rails', 'Javascript'],
+  
   },
   {
-    id: 'card3',
-    title: 'Marcruz Abgael',
+    id: 'card4',
+    title: 'Charlote Divine',
     smallheading: 'mr photogenic  currently in charge of american air transport manager',
-    image: './assets/images/modal5.jpg',
+    image: './assets/images/modal3.jpg',
     image1: './assets/images/squared-bg.png',
     description:
-        'he is american air transport and he won the mr photogenic in mr america competition where he was given a job in that company just after the selection,',
-    technologyList: ['Html', 'Ruby on Rails', 'Javascript'],
+        'she have got the above title last year in companies awards selection and she was recognised as the best speaker of the year',
+  
   },
   // {
   //   id: 'card4',
@@ -78,7 +77,7 @@ const projects = [
 
   },
   {
-    id: 'card5',
+    id: 'card6',
     image: './assets/images/speaker4.jpg',
     image1: './assets/images/squared-bg.png',
     title: 'Carly Devisa',
