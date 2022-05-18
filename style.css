@@ -99,9 +99,6 @@ hr {
   margin: -18px 0 -8px 0;
 }
 
-/* .second-heading2{
-  margin-top: 80px;
-} */
 .about-section {
   text-align: center;
 }
@@ -109,8 +106,6 @@ hr {
 .second-heading2 {
   text-transform: uppercase;
   font-weight: 900;
-
-  /* line-height: 55px; */
   font-family: sans-serif;
   color: rgba(255, 38, 0, 0.76);
   font-size: 45px;
