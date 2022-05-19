@@ -257,7 +257,7 @@ h6 {
     text-align: left;
   }
 
-  .before-nav {
+  .before-navbar {
     display: none;
   }
 
@@ -419,7 +419,7 @@ h6 {
     display: flex;
   }
 
-  .before-nav {
+  .before-navbar {
     width: 100%;
     background-color: #272a31;
     margin-top: -16px;
@@ -435,11 +435,11 @@ h6 {
     align-items: center;
   }
 
-  .before-nav li {
+  .before-navbar li {
     list-style: none;
   }
 
-  .before-nav li:hover {
+  .before-navbar li:hover {
     color: #ec5242;
   }
 
