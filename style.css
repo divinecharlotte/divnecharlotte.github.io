@@ -97,6 +97,8 @@ hr {
 .about-main-heding {
   background-color: white;
   margin: -18px 0 -8px 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .about-section {
@@ -127,10 +129,12 @@ h5 {
   font-size: 35px;
   margin-bottom: -5px;
   text-align: center;
+  margin-top: 15px;
+  padding-bottom: 10px;
 }
 
-.bos-paragraph {
-  text-align: center;
+.hline {
+  margin-bottom: 20px;
 }
 
 .small-head {
@@ -156,6 +160,7 @@ h5 {
   flex-direction: column;
   align-items: center;
   gap: 20px;
+  padding-bottom: 80px;
 }
 
 .past-pictrs {
@@ -170,11 +175,18 @@ h5 {
 .speaker-image {
   width: 100%;
   height: 150px;
-  z-index: 5;
   position: relative;
   top: -40px;
   bottom: 0;
   left: 20px;
+}
+
+.paterners1 {
+  margin-top: -60px;
+  background-color: #272a31;
+  color: white;
+  margin-bottom: -6px;
+  padding: 1px 0 30px 0;
 }
 
 .paterners {
@@ -182,6 +194,7 @@ h5 {
   background-color: #272a31;
   color: white;
   margin-bottom: -6px;
+  padding: 1px 0 30px 0;
 }
 
 footer {
@@ -240,7 +253,19 @@ h6 {
     overflow-x: hidden;
   }
 
+  .bos-paragraph {
+    text-align: left;
+  }
+
   .before-nav {
+    display: none;
+  }
+
+  .paterners1 {
+    display: none;
+  }
+
+  .index-footer {
     display: none;
   }
 
@@ -260,10 +285,10 @@ h6 {
 
   .line {
     display: block;
-    width: 25px;
-    height: 4px;
+    width: 45px;
+    height: 8px;
     margin: 0 0 5px 0;
-    background-color: #d3d3d3;
+    background-color: #272a31;
   }
 
   .fa-xmark {
@@ -275,8 +300,10 @@ h6 {
 
   .nav-links {
     width: 100%;
+    z-index: 8;
+    overflow: hidden;
     height: 100vh;
-    background: #ec5242;
+    background: rgba(255, 51, 0, 0.575);
     opacity: 0.97;
     top: 0;
     margin: 0;
@@ -354,6 +381,10 @@ h6 {
   body {
     background-repeat: no-repeat;
     background-size: cover;
+  }
+
+  .bos-paragraph {
+    text-align: center;
   }
 
   .logo a {
@@ -492,6 +523,13 @@ h6 {
     grid-template-columns: 1fr 1fr;
   }
 
+  .foote-part {
+    background-color: #272a31;
+    color: #d3d3d3;
+    padding-top: 60px;
+    padding-bottom: 50px;
+  }
+
   .patteners-imglogo {
     display: flex;
     gap: 60px;
@@ -502,5 +540,9 @@ h6 {
 
   .patterners-logo {
     width: 150px;
+  }
+
+  .paterners {
+    display: none;
   }
 }

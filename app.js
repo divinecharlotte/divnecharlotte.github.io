@@ -101,14 +101,9 @@ projects.forEach((project) => {
           <p class="main-p">
            ${project.description}
           </p>
-        
-        
-        
       </div  
       </div>
       </div>
-      
-      
     `;
   section.appendChild(div);
 });

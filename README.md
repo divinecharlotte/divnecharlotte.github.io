@@ -57,7 +57,7 @@ git clone git@github.com:divinecharlotte/divnecharlotte.github.io.git
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
+Contributions, issues [here is the issue link](https://github.com/divinecharlotte/divnecharlotte.github.io/issues), and feature requests are welcome!
 
 ## Show your support
 
