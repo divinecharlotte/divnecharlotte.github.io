@@ -10,7 +10,9 @@ This is a demo modeling website for models festival DCD FASHION HOUSE. It has a 
 - Partners section.
 - Page footer.
 
-The site also has an about page, and is responsive to different screen sizes.
+also has an about page, and is responsive to different screen sizes.
+
+The site ![js view](https://user-images.githubusercontent.com/60146030/210329424-35c473ad-5ffc-4653-ab2c-b283ee86b6ed.PNG)
 
 ## Built With
 
